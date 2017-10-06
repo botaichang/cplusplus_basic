@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melchior/Documents/c++_renzhenxue/c__deep007_closedclass/include/CLayers.hpp
+CWeights.hpp
+/home/melchior/Documents/c++_renzhenxue/c__deep007_closedclass/include/CWeights.hpp
+
+/home/melchior/Documents/c++_renzhenxue/c__deep007_closedclass/include/CWeights.hpp
+
+/home/melchior/Documents/c++_renzhenxue/c__deep007_closedclass/src/CLayers.cpp
+../include/CLayers.hpp
+/home/melchior/Documents/c++_renzhenxue/c__deep007_closedclass/include/CLayers.hpp
+../include/CWeights.hpp
+/home/melchior/Documents/c++_renzhenxue/c__deep007_closedclass/include/CWeights.hpp
+iostream
+-
+

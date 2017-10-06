@@ -1,0 +1,3 @@
+/home/melchior/Documents/c++_renzhenxue/c__deep008_friend/build/CMakeFiles/CLayers.dir
+/home/melchior/Documents/c++_renzhenxue/c__deep008_friend/build/CMakeFiles/CWeights.dir
+/home/melchior/Documents/c++_renzhenxue/c__deep008_friend/build/CMakeFiles/c__deep008_friend.dir
