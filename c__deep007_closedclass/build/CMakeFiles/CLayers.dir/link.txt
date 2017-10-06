@@ -1,0 +1,2 @@
+/usr/bin/ar cr libCLayers.a  CMakeFiles/CLayers.dir/src/CLayers.o CMakeFiles/CLayers.dir/src/CWeights.o
+/usr/bin/ranlib libCLayers.a

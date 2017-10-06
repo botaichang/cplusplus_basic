@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/c__deep006_static.dir/main.cpp.o  -o c__deep006_static -rdynamic liblibRectangle.a 
