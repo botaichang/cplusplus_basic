@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melchior/Documents/c++_renzhenxue/c__deep010_const/include/Sample.hpp
+
+/home/melchior/Documents/c++_renzhenxue/c__deep010_const/src/Sample.cpp
+../include/Sample.hpp
+/home/melchior/Documents/c++_renzhenxue/c__deep010_const/include/Sample.hpp
+iostream
+-
+
