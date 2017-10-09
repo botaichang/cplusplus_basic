@@ -1,0 +1,2 @@
+/usr/bin/ar cr libCWeights.a  CMakeFiles/CWeights.dir/src/CWeights.o
+/usr/bin/ranlib libCWeights.a

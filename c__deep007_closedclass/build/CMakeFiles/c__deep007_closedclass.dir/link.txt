@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/c__deep007_closedclass.dir/main.o  -o c__deep007_closedclass -rdynamic libCWeights.a libCLayers.a 

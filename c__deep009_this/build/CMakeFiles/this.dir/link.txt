@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/this.dir/main.cpp.o  -o this -rdynamic libCComplex.a 
