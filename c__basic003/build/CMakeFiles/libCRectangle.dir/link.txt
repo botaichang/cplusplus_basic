@@ -1,0 +1,2 @@
+/usr/bin/ar cq liblibCRectangle.a  CMakeFiles/libCRectangle.dir/src/CRectangle.cpp.o
+/usr/bin/ranlib liblibCRectangle.a

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/c++basic_001.dir/main.o  -o c++basic_001 -rdynamic 

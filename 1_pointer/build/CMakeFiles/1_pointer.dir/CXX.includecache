@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/westwell/Documents/c++_renzhenxue/1_pointer/1_pointer_main.cpp
+stdio.h
+-
+stdlib.h
+-
+

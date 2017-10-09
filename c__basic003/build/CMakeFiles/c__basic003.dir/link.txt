@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/c__basic003.dir/main.cpp.o  -o c__basic003 -rdynamic liblibCRectangle.a 

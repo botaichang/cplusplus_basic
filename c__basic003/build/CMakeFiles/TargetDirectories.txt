@@ -1,0 +1,2 @@
+/home/westwell/Documents/c++_renzhenxue/c__basic003/build/CMakeFiles/libCRectangle.dir
+/home/westwell/Documents/c++_renzhenxue/c__basic003/build/CMakeFiles/c__basic003.dir

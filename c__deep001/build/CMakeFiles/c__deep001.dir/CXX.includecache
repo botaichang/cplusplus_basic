@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/westwell/Documents/c++_renzhenxue/c__deep001/include/CRectangle.hpp
+
+/home/westwell/Documents/c++_renzhenxue/c__deep001/main.cpp
+iostream
+-
+include/CRectangle.hpp
+/home/westwell/Documents/c++_renzhenxue/c__deep001/include/CRectangle.hpp
+
