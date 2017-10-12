@@ -11,6 +11,10 @@ Complex Complex::operator+(const Complex& c)
 {
   return Complex(real + c.real, imag + c.imag);
 }
+Complex Complex::operator+(double real_)
+{
+  return Complex(real + real_,imag);
+}
 Complex Complex::operator-(const Complex& c)
 {
   return Complex(real - c.real, imag - c.imag);
@@ -19,6 +23,10 @@ Complex Complex::operator-(const Complex& c)
 Complex Complex::operator*(const Complex& c)
 {
   return Complex(real * c.real, imag * c.imag);
+}
+Complex Complex::operator/(const Complex& c)
+{
+  return Complex(real / c.real, imag / c.imag);
 }
 void Complex::printValue()
 {
@@ -29,6 +37,10 @@ void Complex::setValue(double real_, double imag_)
 {
   real = real_; 
   imag = imag_;
+}
+Complex operator+(double r,const Complex & c)
+{
+  return Complex(r+c.real, c.imag);
 }
 
 

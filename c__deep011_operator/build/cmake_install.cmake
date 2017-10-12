@@ -1,4 +1,4 @@
-# Install script for directory: /home/melchior/Documents/c++_renzhenxue/c__deep011_operator
+# Install script for directory: /home/mli/Documents/cplusplus_basic/c__deep011_operator
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ ELSE(CMAKE_INSTALL_COMPONENT)
   SET(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 ENDIF(CMAKE_INSTALL_COMPONENT)
 
-FILE(WRITE "/home/melchior/Documents/c++_renzhenxue/c__deep011_operator/build/${CMAKE_INSTALL_MANIFEST}" "")
+FILE(WRITE "/home/mli/Documents/cplusplus_basic/c__deep011_operator/build/${CMAKE_INSTALL_MANIFEST}" "")
 FOREACH(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  FILE(APPEND "/home/melchior/Documents/c++_renzhenxue/c__deep011_operator/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  FILE(APPEND "/home/mli/Documents/cplusplus_basic/c__deep011_operator/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 ENDFOREACH(file)

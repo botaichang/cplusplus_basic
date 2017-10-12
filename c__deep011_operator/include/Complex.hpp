@@ -6,8 +6,12 @@ public:
 	double imag; 
 	Complex(double real_, double imag_);
 	Complex operator+(const Complex & c);
+	Complex operator+(double r);
+	friend Complex operator+(double r, const Complex & c);
+
 	Complex operator-(const Complex & c);
 	Complex operator*(const Complex & c);
+	Complex operator/(const Complex & c);
 	void    setValue(double real_,double imag_);
         void    printValue();
 
