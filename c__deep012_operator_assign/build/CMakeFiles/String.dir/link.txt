@@ -1,0 +1,2 @@
+/usr/bin/ar cr libString.a  CMakeFiles/String.dir/src/String.cpp.o
+/usr/bin/ranlib libString.a
