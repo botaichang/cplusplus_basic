@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mli/Documents/cplusplus_basic/c__deep014_length_nonconst_array/include/CArray.hpp
+
+/home/mli/Documents/cplusplus_basic/c__deep014_length_nonconst_array/src/CArray.cpp
+../include/CArray.hpp
+/home/mli/Documents/cplusplus_basic/c__deep014_length_nonconst_array/include/CArray.hpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+
