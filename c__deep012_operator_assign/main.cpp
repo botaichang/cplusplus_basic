@@ -9,8 +9,6 @@
 
 using namespace std;
 
-
-
 int main()
 {
   String s1;  
@@ -25,6 +23,7 @@ int main()
   s1 = s2;  //deep copy and shallow copy 
   cout<<s1.c_str()<<endl;
   cout<<s2.c_str()<<endl;
+  
 
 
   return 0;
