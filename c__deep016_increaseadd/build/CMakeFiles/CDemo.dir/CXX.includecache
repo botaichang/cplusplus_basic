@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mli/Documents/cplusplus_basic/c__deep016_increaseadd/include/CDemo.hpp
+
+/home/mli/Documents/cplusplus_basic/c__deep016_increaseadd/src/CDemo.cpp
+../include/CDemo.hpp
+/home/mli/Documents/cplusplus_basic/c__deep016_increaseadd/include/CDemo.hpp
+
