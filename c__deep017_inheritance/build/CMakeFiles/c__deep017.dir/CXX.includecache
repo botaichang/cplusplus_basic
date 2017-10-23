@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CStudent.hpp
+iostream
+-
+string
+-
+
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CUndergraduateStudent.hpp
+iostream
+-
+string
+-
+CStudent.hpp
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CStudent.hpp
+
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/main.cpp
+include/CStudent.hpp
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CStudent.hpp
+include/CUndergraduateStudent.hpp
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CUndergraduateStudent.hpp
+string
+-
+

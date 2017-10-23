@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CStudent.hpp
+iostream
+-
+string
+-
+
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/src/CStudent.cpp
+../include/CStudent.hpp
+/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include/CStudent.hpp
+iostream
+-
+string
+-
+

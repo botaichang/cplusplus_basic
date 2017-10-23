@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/c__deep017.dir/main.o  -o c__deep017 -rdynamic libCStudent.a libCUndergraduateStudent.a 

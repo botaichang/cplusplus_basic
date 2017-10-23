@@ -1,0 +1,2 @@
+/usr/bin/ar cr libCUndergraduateStudent.a  CMakeFiles/CUndergraduateStudent.dir/src/CUndergraduateStudent.o
+/usr/bin/ranlib libCUndergraduateStudent.a
