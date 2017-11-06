@@ -1,0 +1,4 @@
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/build/CMakeFiles/rebuild_cache.dir
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/build/CMakeFiles/edit_cache.dir
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/build/CMakeFiles/duotai.dir
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/build/CMakeFiles/c__deep022_duotai.dir

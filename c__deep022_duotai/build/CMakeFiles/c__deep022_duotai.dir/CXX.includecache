@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/main.cpp
+src/duotai.cpp
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/src/duotai.cpp
+iostream
+-
+
+/home/mli/Documents/cplusplus_basic/c__deep022_duotai/src/duotai.cpp
+iostream
+-
+
