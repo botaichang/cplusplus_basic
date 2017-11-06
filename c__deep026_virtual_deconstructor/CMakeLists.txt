@@ -1,0 +1,4 @@
+project(c__deep026_virtual_deconstructor)
+add_executable(c__deep026_virtual_deconstructor main.cpp)
+add_library(duotai src/duotai.cpp)
+target_link_libraries(c__deep026_virtual_deconstructor duotai)

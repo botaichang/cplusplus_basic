@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/c__deep022_duotai.dir/main.cpp.o  -o c__deep022_duotai -rdynamic libduotai.a 

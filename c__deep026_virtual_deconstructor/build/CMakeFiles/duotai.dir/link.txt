@@ -1,0 +1,2 @@
+/usr/bin/ar qc libduotai.a  CMakeFiles/duotai.dir/src/duotai.cpp.o
+/usr/bin/ranlib libduotai.a

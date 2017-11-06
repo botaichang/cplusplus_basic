@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/c__deep026_virtual_deconstructor.dir/main.cpp.o  -o c__deep026_virtual_deconstructor -rdynamic libduotai.a 
