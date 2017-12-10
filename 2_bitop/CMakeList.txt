@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-
-project( 2_bitshift )
-
-add_exectuable ( 2_bitshift 2_bitshift_main.cpp )
