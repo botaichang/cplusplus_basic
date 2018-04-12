@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/fileop.dir/main.cpp.o  -o fileop 
