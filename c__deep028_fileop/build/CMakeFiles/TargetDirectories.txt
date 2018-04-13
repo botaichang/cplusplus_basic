@@ -1,0 +1,3 @@
+/home/melchior/Documents/c++_renzhenxue/c__deep020_fileop/build/CMakeFiles/rebuild_cache.dir
+/home/melchior/Documents/c++_renzhenxue/c__deep020_fileop/build/CMakeFiles/edit_cache.dir
+/home/melchior/Documents/c++_renzhenxue/c__deep020_fileop/build/CMakeFiles/readop.dir

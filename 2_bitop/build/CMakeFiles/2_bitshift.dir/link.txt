@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/2_bitshift.dir/2_bitshift_main.cpp.o  -o 2_bitshift -rdynamic 
+/usr/bin/c++       CMakeFiles/2_bitshift.dir/2_bitshift_main.cpp.o  -o 2_bitshift -rdynamic 
