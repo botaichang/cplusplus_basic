@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/prj.dir/main.cpp.o  -o prj -rdynamic 
